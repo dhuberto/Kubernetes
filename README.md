@@ -12,10 +12,10 @@
 O **TodoList** é uma aplicação web para gerenciamento de listas de tarefas. Os usuários podem adicionar, concluir e remover itens, contando também com uma rotina automatizada de limpeza periódica via CronJob.
 
 ## Baixar o Projeto
-```git clone https://github.com/Tiagocamilos/k8s-lab1.git ```
+```git clone https://github.com/dhuberto/Kubernetes.git ```
 
 ## Entrar no Projeto
-```cd k8s-lab1 ```
+```cd Kubernetes ```
 
 # Executar
 
@@ -109,8 +109,8 @@ kubectl apply -f pdb.yaml
 
 ```kubectl delete namespace todolist-grupo-02```
 #
-```rm -rf ~/k8s-lab1```
+```rm -rf ~/Kubernetes```
 
-[![Baixar Projeto](https://img.shields.io/badge/Baixar-Projeto-0078D4?logo=github&logoColor=white)](https://github.com/Tiagocamilos/k8s-lab1/archive/main.zip)
+[![Baixar Projeto](https://img.shields.io/badge/Baixar-Projeto-0078D4?logo=github&logoColor=white)](https://github.com/Tiagocamilos/Kubernetes/archive/main.zip)
 
 
