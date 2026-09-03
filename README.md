@@ -1,5 +1,5 @@
-# Kubernetes Lab 1 e Lab 2 - TodoList
-![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.28-326CE5?logo=kubernetes&logoColor=white)
+# kubernetes - TodoList
+![kubernetes](https://img.shields.io/badge/kubernetes-v1.28-326CE5?logo=kubernetes&logoColor=white)
 ![Kind](https://img.shields.io/badge/Kind-v0.20-000000?logo=kubernetes&logoColor=white)
 ![NGINX Ingress](https://img.shields.io/badge/NGINX%20Ingress-v1.8-009639?logo=nginx&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-v3-003B57?logo=sqlite&logoColor=white)
@@ -8,14 +8,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-v18-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-v4-000000?logo=express&logoColor=white)
 
-# Laboratório de implantação 1 e 2 completa da aplicação **TodoList** em um cluster Kubernetes (Kind), cobrindo os conceitos de Workloads,Acesso e Persistência de Dados
+# Laboratório de implantação 1 e 2 completa da aplicação **TodoList** em um cluster kubernetes (Kind), cobrindo os conceitos de Workloads,Acesso e Persistência de Dados
 O **TodoList** é uma aplicação web para gerenciamento de listas de tarefas. Os usuários podem adicionar, concluir e remover itens, contando também com uma rotina automatizada de limpeza periódica via CronJob.
 
 ## Baixar o Projeto
-```git clone https://github.com/dhuberto/Kubernetes.git ```
+```git clone https://github.com/dhuberto/kubernetes.git ```
 
 ## Entrar no Projeto
-```cd Kubernetes ```
+```cd kubernetes ```
 
 # Executar
 
@@ -109,8 +109,8 @@ kubectl apply -f pdb.yaml
 
 ```kubectl delete namespace todolist-grupo-02```
 #
-```rm -rf ~/Kubernetes```
+```rm -rf ~/kubernetes```
 
-[![Baixar Projeto](https://img.shields.io/badge/Baixar-Projeto-0078D4?logo=github&logoColor=white)](https://github.com/Tiagocamilos/Kubernetes/archive/main.zip)
+[![Baixar Projeto](https://img.shields.io/badge/Baixar-Projeto-0078D4?logo=github&logoColor=white)](https://github.com/Tiagocamilos/kubernetes/archive/main.zip)
 
 
